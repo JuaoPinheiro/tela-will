@@ -118,7 +118,7 @@ button:hover {
   height: 33px;
   padding: 10px;
   background: #ffd900;
-  border-radius: 33px;
+  border-radius: 15px;
   transition: 0.5s;
 }
 
