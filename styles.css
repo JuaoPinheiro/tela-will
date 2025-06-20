@@ -1,3 +1,19 @@
-h1{
-    color: green;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+
+header{
+    padding: 20px 10vw;
+    border-bottom: 1px solid #c1c1c1;
+    width: 100%;
+}
+
+img{
+    width: 100px;
 }
